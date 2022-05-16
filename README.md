@@ -1,8 +1,8 @@
 # prog_est_prog22
-<p>Autor: Andriks Imanol Ruiz Martínez, Fecha: 03/03/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 03/03/2022 <br>
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
+  <b>Materia:</b> Programación Estructurada <br>
+  <b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa de  funciones, condicionales y ciclos en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -19,10 +19,10 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Hacer un programa que calcule la liquidacion de varios empleados
+<b>Objetivo:</b> Hacer un programa que calcule la liquidacion de varios empleados
 <br>
 <br>
-<p>Breve descripción:
+<p><b>Breve descripción:</b>
 Es un programa que calcule la liquidacion de varios empleados usando ciclos y funciones, con estos datos:
 <ul>
 <li>Salario</li>
